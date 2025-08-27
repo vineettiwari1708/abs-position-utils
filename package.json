@@ -9,8 +9,8 @@
   },
   "keywords": ["position", "dom", "absolute", "screen"],
   "author": "Vineet Tiwari",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
-"publishConfig": {
-  "registry": "https://npm.pkg.github.com"
-},
