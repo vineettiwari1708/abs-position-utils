@@ -1,0 +1,13 @@
+{
+  "name": "abs-position-utils",
+  "version": "1.0.0",
+  "description": "Utilities to get and set absolute positions of DOM elements",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vineettiwari1708/abs-position-utils.git"
+  },
+  "keywords": ["position", "dom", "absolute", "screen"],
+  "author": "Vineet Tiwari",
+  "license": "MIT"
+}
